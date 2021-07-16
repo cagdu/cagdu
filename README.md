@@ -8,6 +8,6 @@
 
 <h2> XLBOT Profile - Discord Presence </h2>
 <div align="center">
-<a href="https://xlbot.net/profile/276979570119540736"><img src="http://api.xlbot.net:443/v1/user/276979570119540736/banner.png" width="57%" alt="XL Profile"></a>
+<a href="https://xlbot.net/profile/276979570119540736"><img src="http://api.xlbot.net:443/v1/user/276979570119540736/banner.png/1" width="57%" alt="XL Profile"></a>
     <a href="https://discord.com/users/276979570119540736"><img src="https://lanyard-profile-readme.vercel.app/api/276979570119540736" width="42.5%" alt="Discord Presence"></a>
 </div>
