@@ -6,7 +6,7 @@
 Hi 👋,
 
 I am **Cagatay D**. I live in **Turkey** <img src="https://i.imgur.com/ff547ZT.png" width="16" height="16" align="center">.
-I am a New Media and Communication student and developing websites or bots mostly.
+I am a New Media and Communication student. I am developing websites and bots mostly.
 
 
 The passion of programming started as editing game files at a young age. I enjoy developing things.
