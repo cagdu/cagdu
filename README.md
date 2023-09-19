@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub profile <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" height="55px"></h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cagdu&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" width="50%" align="right">
+<!--img src="https://github-readme-stats.vercel.app/api?username=cagdu&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" width="50%" align="right"-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdu&layout=compact&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="50%" align="right">
 
 Hi 👋,
