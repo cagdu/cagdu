@@ -13,5 +13,5 @@ The passion of programming started as editing game files at a young age. I enjoy
 ### 📊GitHub Stats:
 <div style="display:flex">
 <img src="https://github-readme-stats.vercel.app/api?username=cagdu&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" width="47.4%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdu&theme=gotham&hide_border=true" width="52%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cagdu&theme=gotham&hide_border=true&locale=tr&fire=EB5B11" width="52%">
 </div>
